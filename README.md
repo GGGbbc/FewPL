@@ -1,7 +1,7 @@
 # FewPL
 ### model
 <p align="center">
-  <img src="./fig/model.pdf" />
+  <img src="./fig/model.png" />
 </p>
 
 ## 1. Environments
