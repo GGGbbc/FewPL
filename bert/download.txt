@@ -1,0 +1,1 @@
+文件下载：https://huggingface.co/michiyasunaga/BioLinkBERT-large
