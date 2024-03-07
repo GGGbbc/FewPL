@@ -28,15 +28,19 @@
 
 Here we provide the processed I2B2-2010RE,DDI,ChemProt dataset
 
+```
+- Generate K-shot data   python generate_k_shot.py 
 
-## 4. Dependencies
+```
+
+## 4. Data Augmentation Module
 
 ```
 - Go to folder   cd DA 
-- python GPTDA.py
-- python TranDA.py
-- python SynonymDA.py
-- python RandomWordAugDA.py
+- Augmentation using GPT API    ---python GPTDA.py
+- Augmentation using Google Translate API   ---python TranDA.py
+- Augmentation using SynonymAug    ---python SynonymDA.py
+- Augmentation using RandomWordAug     ---python RandomWordAugDA.py
 
 ```
 
