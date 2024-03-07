@@ -4,11 +4,8 @@
   <img src="./fig/model.png" />
 </p>
 
+Schematic diagram of the proposed few-shot biomedical relation extraction method. Starting from biomedical text, the data augmentation module enriches the training corpus by generating new text variants. This data, combined with customized prompt template and domain information, is then directed into a sentence encoder module to generate a vector representation of the input. The final stage involves the relation extraction module, which determines the relation class between texts through the predicted label words at the [MASK] position.
 
-
-```
-- Schematic diagram of the proposed few-shot biomedical relation extraction method. Starting from biomedical text, the data augmentation module enriches the training corpus by generating new text variants. This data, combined with customized prompt template and domain information, is then directed into a sentence encoder module to generate a vector representation of the input. The final stage involves the relation extraction module, which determines the relation class between texts through the predicted label words at the [MASK] position.
-```
 
 ## 1. Environments
 
