@@ -29,7 +29,19 @@
 Here we provide the processed I2B2-2010RE,DDI,ChemProt dataset
 
 
-## 4. Training and Evaluate
+## 4. Dependencies
+
+```
+- Go to folder   cd DA 
+- python GPTDA.py
+- python TranDA.py
+- python SynonymDA.py
+- python RandomWordAugDA.py
+
+```
+
+
+## 5. Training and Evaluate
 
 ```bash
 - sh I2B2-2010RE_few.sh
