@@ -1,0 +1,9 @@
+0	VFalse	entity	is	irrelevant	to	entity
+0	TrIP	treatment	improves	cure	medical	problem
+0	TrWP	treatment	worsen	the	medical	problem
+0	TrCP	treatment	cause	the	medical	problem
+0	TrAP	treatment	administered	for	medical	problem
+0	TrNAP	treatment	provided	intervals	medical	problem
+0	TeRP	test	reveals	the	medical	problem
+0	TeCP	test	conducted	investigate	medical	problem
+0	PIP	medical	problem	indicates	medical	problem
